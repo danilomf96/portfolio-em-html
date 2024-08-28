@@ -1,0 +1,35 @@
+nav{
+    width: 1100px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+nav div{
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px 20px;
+}
+nav div a{
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 20px;
+    font-weight: 600;
+    color: black;
+    margin: 20px;
+    outline: 5px solid;
+}
+nav div a:hover{
+    background-color: black;
+    color: aliceblue;
+}
+
+main{
+    text-align: center;
+    width: 1100px;
+    height: 1000px;
+    background-color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+}
