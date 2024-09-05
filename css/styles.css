@@ -132,3 +132,18 @@ main {
 	margin-right: auto;
 	width: 1300px;
 }
+/* Estiliza o footer para combinar com o main */
+footer {
+	background-color: #3c003c;
+	color: #ffffff;
+	padding: 50px;
+	text-align: center;
+	width: 100%;
+	box-sizing: border-box;
+	margin-top: auto;
+}
+
+footer p {
+	margin: 0;
+	padding: 5px 0;
+}
